@@ -1,4 +1,4 @@
-### Financial Accounting and Decision Making
+# Financial Accounting and Decision Making
 
 **1. [Introduction](Introduction.md)**:  formal definitions of Financial Accounting, Types of Business Activities ( Financing, Investing & Operating ), Assets, Liabilities and Equity.
 
