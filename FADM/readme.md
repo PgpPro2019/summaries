@@ -1,6 +1,6 @@
 ### Financial Accounting and Decision Making
 
-**1. Introduction**:  formal definitions of Financial Accounting, Types of Business Activities ( Financing, Investing & Operating ), Assets, Liabilities and Equity.
+**1. [Introduction](Introduction.md)**:  formal definitions of Financial Accounting, Types of Business Activities ( Financing, Investing & Operating ), Assets, Liabilities and Equity.
 
 **2. Preparing Financial Statements** : how to analyze and record transactions using FSET template, how to adjust those entries, and finally prepare financial statements (Income Statements and Balance Sheet)
 
