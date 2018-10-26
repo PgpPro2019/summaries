@@ -1,2 +1,2 @@
-# summaries or all courses
+# Course summaries
 * [FADM](fadm/readme.md)
