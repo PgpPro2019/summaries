@@ -1,3 +1,5 @@
+# Introduction
+
 * Accounting is an information system of a firm that captures outcomes of economic activities resulting from decisions by managers and the influence of the environment
 * Financial Accounting is an information system for external users, while managerial accounting is for internal users.
 * Financial statements are aggregate snapshots of economic transactions of firm, used for making decisions regarding the firm and are prepared by managers of a firm. there are primarily four types of financial statements:
