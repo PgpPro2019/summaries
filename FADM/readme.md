@@ -1,17 +1,45 @@
 # Financial Accounting and Decision Making
 
-**1. [Introduction](Introduction.md)**:  formal definitions of Financial Accounting, Types of Business Activities ( Financing, Investing & Operating ), Assets, Liabilities and Equity.
 
-**2. [Preparing Financial Statements](pfs.md)** : how to analyze and record transactions using FSET template, how to adjust those entries, and finally prepare financial statements (Income Statements and Balance Sheet)
+## Session 1: Introduction
+#### Executive Summary
+Formal definitions of Financial Accounting, Types of Business Activities ( Financing, Investing & Operating ), Assets, Liabilities and Equity. [Read more...](Introduction.md)
 
-**3. [Advanced Preparation of Financial Statements](apfs.md)**: difference between Cash and Accrual accounting, and observed the impact of special cases like Accrued revenue, Deferred revenue, Accrued expense & Prepaid expense.
+#### Key Concepts:
+* companies, etc
 
-**4. Session 4**:
+#### Additional Resources:
+* [Reference 1](Introduction.md)
+* [Reference 2](Introduction.md)
 
-**4. Session 5**:
+## Session 2: Preparing Financial Statements
+#### Executive Summary
+how to analyze and record transactions using FSET template, how to adjust those entries, and finally prepare financial statements (Income Statements and Balance Sheet) [Read more...](pfs.md)
 
-**4. Session 6**:
+#### Key Concepts:
+* companies, etc
 
-**4. Session 7**:
+#### Additional Resources:
+* [Reference 1](Introduction.md)
+* [Reference 2](Introduction.md)
 
-**4. Session 8**:
+## Session 3: Advanced Preparation of Financial Statements
+#### Executive Summary
+difference between Cash and Accrual accounting, and observed the impact of special cases like Accrued revenue, Deferred revenue, Accrued expense & Prepaid expense. [Read more...](apfs.md)
+
+#### Key Concepts:
+* companies, etc
+
+#### Additional Resources:
+* [Reference 1](Introduction.md)
+* [Reference 2](Introduction.md)
+
+## Session 4
+
+## Session 5
+
+## Session 6
+
+## Session 7
+
+## Session 8
