@@ -1,12 +1,22 @@
 # Financial Accounting and Decision Making
 
+## Online sessions: Random title
+#### Executive Summary
+Formal definitions of Financial Accounting, Types of Business Activities ( Financing, Investing & Operating ), Assets, Liabilities and Equity. [Read more...](Introduction.md)
+
+#### Key Concepts:
+* balance sheet, income statement, cash flows
+
+#### Additional Resources:
+* [Reference 1](Introduction.md)
+* [Reference 2](Introduction.md)
 
 ## Session 1: Introduction
 #### Executive Summary
 Formal definitions of Financial Accounting, Types of Business Activities ( Financing, Investing & Operating ), Assets, Liabilities and Equity. [Read more...](Introduction.md)
 
 #### Key Concepts:
-* companies, etc
+* balance sheet, income statement, cash flows
 
 #### Additional Resources:
 * [Reference 1](Introduction.md)
@@ -17,7 +27,7 @@ Formal definitions of Financial Accounting, Types of Business Activities ( Finan
 how to analyze and record transactions using FSET template, how to adjust those entries, and finally prepare financial statements (Income Statements and Balance Sheet) [Read more...](pfs.md)
 
 #### Key Concepts:
-* companies, etc
+* bullwhip effect, 5 forces
 
 #### Additional Resources:
 * [Reference 1](Introduction.md)
